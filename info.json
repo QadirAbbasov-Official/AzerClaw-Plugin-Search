@@ -1,0 +1,9 @@
+{
+  "name": "search",
+  "icon": "img/icon.jfif",
+  "version": "1.0.0",
+  "description": "Plugin for searching on Yandex and other search engines",
+  "author": "Qadir Abbasov",
+  "category": "utility",
+  "enabled": true
+}
